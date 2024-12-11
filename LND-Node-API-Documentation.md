@@ -243,3 +243,7 @@ curl --location 'https://your-node.node.website/pubkey' \
 --header 'Authorization: Bearer YOUR_ACCESS_TOKEN'
 ```
 </details>
+
+## Support
+For assistance, please contact our support team:
+📧 Email: support@economy-v1.com
